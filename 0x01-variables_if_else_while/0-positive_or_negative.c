@@ -4,9 +4,9 @@
 /*
  * this project wil enable operators
  *  Thit project prints the out put of operators
+ *  main: the pilot handler 
 */
 int main(void)
-/* this will declare for the main */
 {
 	int n;
 
