@@ -1,17 +1,17 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
+/*
  * this project wil enable operators
  *  Thit project prints the out put of operators
-**/
+*/
 int main(void)
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/** this code samples the operators **/
+	/* this code samples the operators */
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
