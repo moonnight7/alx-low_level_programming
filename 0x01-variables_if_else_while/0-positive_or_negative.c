@@ -6,6 +6,7 @@
  *  Thit project prints the out put of operators
 */
 int main(void)
+/* this will declare for the main */
 {
 	int n;
 
