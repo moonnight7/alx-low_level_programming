@@ -2,9 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /*
+ * main - entry point
+ *
+ * Return: always  return
+ *
  * this project wil enable operators
- *  Thit project prints the out put of operators
- *  main: the pilot handler 
+ *
+ *  Thit project prints the out put of operators 
 */
 int main(void)
 {
