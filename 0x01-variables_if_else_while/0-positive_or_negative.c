@@ -8,9 +8,10 @@
  *
  * this project wil enable operators
  *
- *  Thit project prints the out put of operators 
+ *  Thit project prints the out put of operators
 */
 int main(void)
+/* this is the main subject of this project */
 {
 	int n;
 
