@@ -4,6 +4,7 @@
  *
  * return: alway returns 0
  *
+ * this will combine many prints
  */
 int main(void)
 {
