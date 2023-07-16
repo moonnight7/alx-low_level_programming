@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - entry point
  *
- * Return: always  return
+ * Return: always 0
  *
  * this project wil enable operators
  *
