@@ -6,19 +6,19 @@
 */
 int main(void)
 {
-	unsigned char n = '0';
+	unsigned char a = '0';
 	int z;
 
 	for (z = 0; z < 10; z++)
 	{
-		putchar(n);
-		n++;
+		putchar(a);
+		a++;
 	}
 	z = '1';
 	for (z = 0; z < 6; z++)
 	{
-		putchar('0' + n);
-		n++;
+		putchar('0' + a);
+		a++;
 	}
 	putchar('\n');
 
