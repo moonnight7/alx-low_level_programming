@@ -3,8 +3,6 @@
  * main - Entry point
  *
  * Return: always 0
- *
- * The essence is to print lowercase alphabets
 */
 int main(void)
 {
