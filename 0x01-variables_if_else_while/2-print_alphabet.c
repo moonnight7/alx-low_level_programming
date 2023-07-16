@@ -6,7 +6,6 @@
  *
  * The essence is to print lowercase alphabets
 */
-
 int main(void)
 {
 	char a;
