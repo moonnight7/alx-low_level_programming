@@ -7,15 +7,15 @@
 int main(void)
 {
 	unsigned char a = '0';
-	int z;
+	int i;
 
-	for (z = 0; z < 10; z++)
+	for (i = 0; i < 10; i++)
 	{
 		putchar(a);
 		a++;
 	}
-	z = '1';
-	for (z = 0; z < 6; z++)
+	i = '1';
+	for (i = 0; i < 6; i++)
 	{
 		putchar('0' + a);
 		a++;
