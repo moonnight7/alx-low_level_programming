@@ -7,6 +7,7 @@
  * this will combine many prints
  */
 int main(void)
+/* the value here is a possible combination */
 {
 	int i;
 	int j;
